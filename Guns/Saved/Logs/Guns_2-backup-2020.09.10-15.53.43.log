@@ -1,0 +1,1392 @@
+﻿Log file open, 09/10/20 16:50:36
+LogInit: Display: Running engine for game: Guns
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189479
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  /Game/Maps/DemoLevel -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.10-15.50.37:658][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.10-15.50.37:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:659][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:674][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.10-15.50.37:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.10-15.50.37:676][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.10-15.50.37:676][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.10-15.50.37:676][  0]LogHAL: Display: Platform has ~ 64 GB [68625858560 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.10-15.50.37:676][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.10-15.50.37:676][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.10-15.50.37:677][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Engine.ini]
+[2020.09.10-15.50.37:677][  0]LogInit: Computer: DESKTOP-2K62GJ8
+[2020.09.10-15.50.37:677][  0]LogInit: User: kelvi
+[2020.09.10-15.50.37:677][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.09.10-15.50.37:677][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.10-15.50.37:678][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.09.10-15.50.37:678][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.10-15.50.37:678][  0]LogMemory: Process Physical Memory: 114.52 MB used, 114.52 MB peak
+[2020.09.10-15.50.37:678][  0]LogMemory: Process Virtual Memory: 97.80 MB used, 97.80 MB peak
+[2020.09.10-15.50.37:678][  0]LogMemory: Physical Memory: 11792.94 MB used,  53653.78 MB free, 65446.72 MB total
+[2020.09.10-15.50.37:678][  0]LogMemory: Virtual Memory: 5169.51 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.09.10-15.50.37:711][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.10-15.50.37:791][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.10-15.50.37:791][  0]LogInit: Using OS detected language (en-GB).
+[2020.09.10-15.50.37:791][  0]LogInit: Using OS detected locale (en-GB).
+[2020.09.10-15.50.37:796][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.09.10-15.50.38:506][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.10-15.50.38:506][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.10-15.50.38:528][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.09.10-15.50.38:528][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.10-15.50.38:528][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.10-15.50.38:528][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.10-15.50.38:606][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.09.10-15.50.38:606][  0]LogD3D11RHI:       8079/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.10-15.50.38:609][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.10-15.50.38:609][  0]LogD3D11RHI:       0/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.10-15.50.38:609][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.10-15.50.38:616][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.10-15.50.38:616][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.10-15.50.38:616][  0]LogWindows: EnumDisplayDevices:
+[2020.09.10-15.50.38:617][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.09.10-15.50.38:617][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.09.10-15.50.38:618][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.10-15.50.38:618][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.10-15.50.38:618][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.10-15.50.38:618][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.09.10-15.50.38:618][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.09.10-15.50.38:618][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.09.10-15.50.38:618][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.09.10-15.50.38:666][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.10-15.50.38:666][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.10-15.50.38:666][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.10-15.50.38:670][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061082).
+[2020.09.10-15.50.38:693][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.10-15.50.39:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.10-15.50.39:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.10-15.50.39:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.10-15.50.39:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.10-15.50.39:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.10-15.50.39:702][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.10-15.50.39:839][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Intermediate/Shaders/WorkingDirectory/14780/).
+[2020.09.10-15.50.39:839][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kelvi/AppData/Local/Temp/UnrealShaderWorkingDir/01808B8D4942AF2403D93B82E4A8ABA9/'.
+[2020.09.10-15.50.39:840][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.10-15.50.39:840][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.10-15.50.39:840][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.10-15.50.41:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.10-15.50.41:809][  0]LogDerivedDataCache: Loaded boot cache 0.72s 76MB C:/Users/kelvi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.10-15.50.41:809][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kelvi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.10-15.50.41:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kelvi/OneDrive/Desktop/Z-Up/Guns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.10-15.50.41:810][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.10-15.50.41:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kelvi/OneDrive/Desktop/Z-Up/Guns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.10-15.50.41:810][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.10-15.50.41:822][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.10-15.50.41:822][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.10-15.50.41:822][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.10-15.50.41:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kelvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.10-15.50.41:824][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.10-15.50.41:824][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.10-15.50.41:884][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.10-15.50.41:964][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.10-15.50.42:842][  0]LogInit: Using OS detected language (en-GB).
+[2020.09.10-15.50.42:842][  0]LogInit: Using OS detected locale (en-GB).
+[2020.09.10-15.50.42:842][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2020.09.10-15.50.42:842][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2020.09.10-15.50.42:842][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.09.10-15.50.42:842][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.09.10-15.50.42:844][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.09.10-15.50.42:847][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.09.10-15.50.43:080][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.001019 seconds
+[2020.09.10-15.50.43:155][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.10-15.50.43:350][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.10-15.50.43:350][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.10-15.50.43:350][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.10-15.50.43:350][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.10-15.50.43:351][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.10-15.50.43:385][  0]LogNetVersion: Guns 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2244923903)
+[2020.09.10-15.50.43:747][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001D179A57800), frame # 0
+[2020.09.10-15.50.43:747][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D179A62700), frame # 0
+[2020.09.10-15.50.43:749][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D179A5BC00), frame # 0
+[2020.09.10-15.50.45:095][  0]LogCollectionManager: Loaded 0 collections in 0.001926 seconds
+[2020.09.10-15.50.45:096][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Collections/' took 0.00s
+[2020.09.10-15.50.45:096][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Content/Developers/kelvi/Collections/' took 0.00s
+[2020.09.10-15.50.45:096][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Content/Collections/' took 0.00s
+[2020.09.10-15.50.45:096][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.10-15.50.45:324][  0]LogMoviePlayer: Initializing movie player
+[2020.09.10-15.50.45:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.10-15.50.45:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.10-15.50.45:856][  0]SourceControl: Source control is disabled
+[2020.09.10-15.50.45:856][  0]SourceControl: Source control is disabled
+[2020.09.10-15.50.45:866][  0]SourceControl: Source control is disabled
+[2020.09.10-15.50.46:162][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.10-15.50.46:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.10-15.50.46:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.10-15.50.46:252][  0]LogOcInput: OculusInput pre-init called
+[2020.09.10-15.50.46:274][  0]LogUObjectArray: 19064 objects as part of root set at end of initial load.
+[2020.09.10-15.50.46:274][  0]LogUObjectAllocator: 5015424 out of 0 bytes used by permanent object pool.
+[2020.09.10-15.50.46:274][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.10-15.50.46:352][  0]LogEngine: Initializing Engine...
+[2020.09.10-15.50.46:354][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.09.10-15.50.46:354][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.10-15.50.46:356][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.10-15.50.46:480][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.10-15.50.46:486][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.10-15.50.46:486][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.10-15.50.46:487][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.10-15.50.46:487][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.10-15.50.46:524][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.10-15.50.46:524][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.10-15.50.46:586][  0]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2020.09.10-15.50.46:590][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.10-15.50.46:592][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.10-15.50.46:592][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.10-15.50.46:594][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.10-15.50.46:595][  0]LogInit: FAudioDevice initialized.
+[2020.09.10-15.50.46:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.10-15.50.46:596][  0]LogInit: Texture streaming: Enabled
+[2020.09.10-15.50.46:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.10-15.50.46:659][  0]LogInit: Display: Game Engine Initialized.
+[2020.09.10-15.50.46:659][  0]LogNiagaraEditor: Warning: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2020.09.10-15.50.46:700][  0]LogInit: Display: Starting Game.
+[2020.09.10-15.50.46:700][  0]LogNet: Browse: /Game/Maps/DemoLevel?Name=Player
+[2020.09.10-15.50.46:700][  0]LogLoad: LoadMap: /Game/Maps/DemoLevel?Name=Player
+[2020.09.10-15.50.46:700][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.09.10-15.50.46:701][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.50.46:702][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.50.46:718][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.10-15.50.48:133][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.50.48:143][  0]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.50.48:143][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D109392200), frame # 0
+[2020.09.10-15.50.48:143][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D10CF20CC0), frame # 0
+[2020.09.10-15.50.48:143][  0]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.50.48:161][  0]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.50.48
+[2020.09.10-15.50.48:161][  0]LogWorld: Bringing up level for play took: 0.017280
+[2020.09.10-15.50.48:167][  0]LogLoad: Took 1.467056 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.50.48:288][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.10-15.50.48:288][  0]LogSlate: Took 0.071280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.10-15.50.48:323][  0]LogLoad: (Engine Initialization) Total time: 17.94 seconds
+[2020.09.10-15.50.48:323][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.10-15.50.48:328][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.10-15.50.48:331][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.50.48:446][  1]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.10-15.50.52:588][ 66]LogRenderer: Reallocating scene render targets to support 2560x1440 Format 10 NumSamples 1 (Frame:1068).
+[2020.09.10-15.50.52:588][ 66]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.10-15.50.52:588][ 66]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.10-15.50.52:589][ 66]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.10-15.50.52:645][ 66]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.10-15.51.17:988][320]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.17:988][320]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.17:988][320]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.17:989][320]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.17:990][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.18:046][320]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D109392200), frame # 6320
+[2020.09.10-15.51.18:046][320]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D10CF20CC0), frame # 6320
+[2020.09.10-15.51.18:047][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.10-15.51.18:369][320]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.18:432][320]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.18:432][320]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113E8D000), frame # 6320
+[2020.09.10-15.51.18:432][320]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113E83D80), frame # 6320
+[2020.09.10-15.51.18:432][320]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.18:445][320]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.18
+[2020.09.10-15.51.18:445][320]LogWorld: Bringing up level for play took: 0.012134
+[2020.09.10-15.51.18:449][320]LogLoad: Took 0.461412 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.51.24:322][559]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.24:322][559]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.24:322][559]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.24:323][559]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.24:324][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.24:372][559]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113E83D80), frame # 7559
+[2020.09.10-15.51.24:372][559]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113E8D000), frame # 7559
+[2020.09.10-15.51.24:374][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.09.10-15.51.24:756][559]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.24:760][559]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.24:760][559]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113E25C00), frame # 7559
+[2020.09.10-15.51.24:760][559]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113E2EFC0), frame # 7559
+[2020.09.10-15.51.24:761][559]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.24:770][559]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.24
+[2020.09.10-15.51.24:770][559]LogWorld: Bringing up level for play took: 0.009356
+[2020.09.10-15.51.24:774][559]LogLoad: Took 0.451101 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.51.32:394][118]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.32:394][118]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.32:394][118]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.32:395][118]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.32:395][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.32:439][118]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113E2EFC0), frame # 9118
+[2020.09.10-15.51.32:439][118]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113E25C00), frame # 9118
+[2020.09.10-15.51.32:443][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.10-15.51.32:835][118]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.32:836][118]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.32:836][118]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D10D2CEC00), frame # 9118
+[2020.09.10-15.51.32:836][118]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D10D013D80), frame # 9118
+[2020.09.10-15.51.32:837][118]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.32:847][118]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.32
+[2020.09.10-15.51.32:847][118]LogWorld: Bringing up level for play took: 0.009769
+[2020.09.10-15.51.32:851][118]LogLoad: Took 0.456876 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.51.39:312][504]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.39:312][504]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.39:312][504]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.39:313][504]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.39:314][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.39:350][504]LogAudio: Display: Waited 35.711502 ms for audio thread.
+[2020.09.10-15.51.39:352][504]LogAudio: Display: Waited 38.374802 ms for audio thread.
+[2020.09.10-15.51.39:370][504]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D10D013D80), frame # 10504
+[2020.09.10-15.51.39:370][504]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D10D2CEC00), frame # 10504
+[2020.09.10-15.51.39:374][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.10-15.51.39:758][504]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.39:760][504]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.39:760][504]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D1031F7E00), frame # 10504
+[2020.09.10-15.51.39:760][504]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D10D49BD80), frame # 10504
+[2020.09.10-15.51.39:760][504]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.39:770][504]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.39
+[2020.09.10-15.51.39:770][504]LogWorld: Bringing up level for play took: 0.009634
+[2020.09.10-15.51.39:774][504]LogLoad: Took 0.462532 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.51.47:124][  4]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.47:124][  4]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.47:124][  4]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.47:124][  4]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.47:125][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.47:161][  4]LogAudio: Display: Waited 35.151600 ms for audio thread.
+[2020.09.10-15.51.47:162][  4]LogAudio: Display: Waited 36.304199 ms for audio thread.
+[2020.09.10-15.51.47:179][  4]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D10D49BD80), frame # 12004
+[2020.09.10-15.51.47:179][  4]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D1031F7E00), frame # 12004
+[2020.09.10-15.51.47:184][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.10-15.51.47:582][  4]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.47:584][  4]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.47:584][  4]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113BFCA00), frame # 12004
+[2020.09.10-15.51.47:584][  4]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D17CEFCE00), frame # 12004
+[2020.09.10-15.51.47:584][  4]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.47:594][  4]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.47
+[2020.09.10-15.51.47:594][  4]LogWorld: Bringing up level for play took: 0.009466
+[2020.09.10-15.51.47:597][  4]LogLoad: Took 0.473358 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.51.56:672][924]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.51.56:672][924]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.51.56:672][924]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.51.56:672][924]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.51.56:673][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.51.56:722][924]LogAudio: Display: Waited 48.334000 ms for audio thread.
+[2020.09.10-15.51.56:738][924]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D17CEFCE00), frame # 13924
+[2020.09.10-15.51.56:738][924]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113BFCA00), frame # 13924
+[2020.09.10-15.51.56:741][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.10-15.51.57:129][924]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.51.57:133][924]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.51.57:133][924]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D109189800), frame # 13924
+[2020.09.10-15.51.57:133][924]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D1798ACB80), frame # 13924
+[2020.09.10-15.51.57:133][924]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.51.57:143][924]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.51.57
+[2020.09.10-15.51.57:143][924]LogWorld: Bringing up level for play took: 0.009569
+[2020.09.10-15.51.57:147][924]LogLoad: Took 0.474771 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.03:324][219]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.03:324][219]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.03:324][219]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.03:325][219]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.03:326][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.03:372][219]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D1798ACB80), frame # 15219
+[2020.09.10-15.52.03:372][219]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D109189800), frame # 15219
+[2020.09.10-15.52.03:377][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.09.10-15.52.03:776][219]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.03:778][219]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.03:778][219]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113B67400), frame # 15219
+[2020.09.10-15.52.03:778][219]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D11698BD80), frame # 15219
+[2020.09.10-15.52.03:778][219]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.03:788][219]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.03
+[2020.09.10-15.52.03:788][219]LogWorld: Bringing up level for play took: 0.009238
+[2020.09.10-15.52.03:791][219]LogLoad: Took 0.466828 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.11:422][856]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.11:422][856]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.11:422][856]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.11:423][856]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.11:424][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.11:459][856]LogAudio: Display: Waited 35.331902 ms for audio thread.
+[2020.09.10-15.52.11:462][856]LogAudio: Display: Waited 38.561703 ms for audio thread.
+[2020.09.10-15.52.11:483][856]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D11698BD80), frame # 16856
+[2020.09.10-15.52.11:483][856]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113B67400), frame # 16856
+[2020.09.10-15.52.11:485][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.10-15.52.11:875][856]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.11:876][856]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.11:876][856]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113CE1C00), frame # 16856
+[2020.09.10-15.52.11:876][856]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D1140B8B80), frame # 16856
+[2020.09.10-15.52.11:877][856]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.11:886][856]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.11
+[2020.09.10-15.52.11:886][856]LogWorld: Bringing up level for play took: 0.009296
+[2020.09.10-15.52.11:890][856]LogLoad: Took 0.467595 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.20:531][702]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.20:531][702]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.20:531][702]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.20:532][702]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.20:533][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.20:572][702]LogAudio: Display: Waited 38.172600 ms for audio thread.
+[2020.09.10-15.52.20:590][702]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D1140B8B80), frame # 18702
+[2020.09.10-15.52.20:590][702]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113CE1C00), frame # 18702
+[2020.09.10-15.52.20:594][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.09.10-15.52.20:979][702]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.20:984][702]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.20:984][702]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D10D19EC00), frame # 18702
+[2020.09.10-15.52.20:984][702]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113AEFD80), frame # 18702
+[2020.09.10-15.52.20:984][702]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.20:994][702]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.20
+[2020.09.10-15.52.20:994][702]LogWorld: Bringing up level for play took: 0.009411
+[2020.09.10-15.52.20:997][702]LogLoad: Took 0.465728 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.32:554][124]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.32:554][124]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.32:555][124]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.32:555][124]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.32:557][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.32:610][124]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113AEFD80), frame # 21124
+[2020.09.10-15.52.32:610][124]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D10D19EC00), frame # 21124
+[2020.09.10-15.52.32:615][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.09.10-15.52.33:057][124]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.33:059][124]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.33:059][124]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D113E93E00), frame # 21124
+[2020.09.10-15.52.33:059][124]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D10CFA4400), frame # 21124
+[2020.09.10-15.52.33:059][124]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.33:072][124]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.33
+[2020.09.10-15.52.33:072][124]LogWorld: Bringing up level for play took: 0.012793
+[2020.09.10-15.52.33:075][124]LogLoad: Took 0.520998 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.39:346][437]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.39:346][437]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.39:346][437]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.39:346][437]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.39:348][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.39:403][437]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D10CFA4400), frame # 22437
+[2020.09.10-15.52.39:403][437]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D113E93E00), frame # 22437
+[2020.09.10-15.52.39:405][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.09.10-15.52.39:796][437]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.39:797][437]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.39:797][437]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D103080400), frame # 22437
+[2020.09.10-15.52.39:797][437]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113D17D80), frame # 22437
+[2020.09.10-15.52.39:797][437]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.39:807][437]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.39
+[2020.09.10-15.52.39:807][437]LogWorld: Bringing up level for play took: 0.009390
+[2020.09.10-15.52.39:811][437]LogLoad: Took 0.465108 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.45:883][705]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.45:883][705]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.45:883][705]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.45:884][705]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.45:885][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.45:935][705]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113D17D80), frame # 23705
+[2020.09.10-15.52.45:935][705]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D103080400), frame # 23705
+[2020.09.10-15.52.45:937][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.09.10-15.52.46:336][705]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.46:337][705]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.46:338][705]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D10D19FE00), frame # 23705
+[2020.09.10-15.52.46:338][705]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D17CEF7D80), frame # 23705
+[2020.09.10-15.52.46:338][705]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.46:349][705]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.46
+[2020.09.10-15.52.46:350][705]LogWorld: Bringing up level for play took: 0.011309
+[2020.09.10-15.52.46:353][705]LogLoad: Took 0.468876 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.52.53:142][147]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.52.53:142][147]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.52.53:142][147]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.52.53:143][147]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.52.53:143][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.52.53:180][147]LogAudio: Display: Waited 35.353401 ms for audio thread.
+[2020.09.10-15.52.53:192][147]LogAudio: Display: Waited 47.998398 ms for audio thread.
+[2020.09.10-15.52.53:212][147]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D17CEF7D80), frame # 25147
+[2020.09.10-15.52.53:212][147]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D10D19FE00), frame # 25147
+[2020.09.10-15.52.53:214][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.10-15.52.53:603][147]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.52.53:604][147]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.52.53:604][147]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D114630C00), frame # 25147
+[2020.09.10-15.52.53:604][147]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D114626D40), frame # 25147
+[2020.09.10-15.52.53:604][147]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.52.53:614][147]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.52.53
+[2020.09.10-15.52.53:614][147]LogWorld: Bringing up level for play took: 0.009140
+[2020.09.10-15.52.53:618][147]LogLoad: Took 0.475923 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.03:938][353]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.53.03:938][353]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.53.03:938][353]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.03:939][353]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.03:939][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.03:980][353]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D114626D40), frame # 27353
+[2020.09.10-15.53.03:980][353]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D114630C00), frame # 27353
+[2020.09.10-15.53.03:985][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.09.10-15.53.04:369][353]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.53.04:374][353]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.53.04:374][353]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D109393A00), frame # 27353
+[2020.09.10-15.53.04:374][353]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113B57D80), frame # 27353
+[2020.09.10-15.53.04:374][353]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.53.04:384][353]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.53.04
+[2020.09.10-15.53.04:384][353]LogWorld: Bringing up level for play took: 0.009597
+[2020.09.10-15.53.04:388][353]LogLoad: Took 0.449693 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.14:357][465]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.53.14:357][465]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.53.14:357][465]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.14:359][465]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.14:360][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.14:414][465]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113B57D80), frame # 29465
+[2020.09.10-15.53.14:414][465]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D109393A00), frame # 29465
+[2020.09.10-15.53.14:416][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.09.10-15.53.14:808][465]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.53.14:809][465]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.53.14:809][465]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D114100800), frame # 29465
+[2020.09.10-15.53.14:809][465]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D102FBC900), frame # 29465
+[2020.09.10-15.53.14:809][465]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.53.14:819][465]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.53.14
+[2020.09.10-15.53.14:819][465]LogWorld: Bringing up level for play took: 0.009312
+[2020.09.10-15.53.14:822][465]LogLoad: Took 0.464058 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.20:800][733]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.53.20:800][733]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.53.20:800][733]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.20:801][733]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.20:801][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.20:850][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D102FBC900), frame # 30733
+[2020.09.10-15.53.20:850][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D114100800), frame # 30733
+[2020.09.10-15.53.20:854][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.10-15.53.21:242][733]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.53.21:243][733]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.53.21:244][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D114106200), frame # 30733
+[2020.09.10-15.53.21:244][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113AA87C0), frame # 30733
+[2020.09.10-15.53.21:244][733]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.53.21:253][733]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.53.21
+[2020.09.10-15.53.21:253][733]LogWorld: Bringing up level for play took: 0.009178
+[2020.09.10-15.53.21:257][733]LogLoad: Took 0.457080 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.26:825][906]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.53.26:825][906]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.53.26:825][906]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.26:826][906]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.26:827][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.26:870][906]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113AA87C0), frame # 31906
+[2020.09.10-15.53.26:870][906]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D114106200), frame # 31906
+[2020.09.10-15.53.26:874][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.10-15.53.27:274][906]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.53.27:276][906]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.53.27:276][906]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D10D638A00), frame # 31906
+[2020.09.10-15.53.27:276][906]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D165865080), frame # 31906
+[2020.09.10-15.53.27:276][906]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.53.27:289][906]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.53.27
+[2020.09.10-15.53.27:289][906]LogWorld: Bringing up level for play took: 0.012237
+[2020.09.10-15.53.27:292][906]LogLoad: Took 0.467236 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.33:302][173]LogNet: Browse: /Game/Maps/DemoLevel
+[2020.09.10-15.53.33:302][173]LogLoad: LoadMap: /Game/Maps/DemoLevel
+[2020.09.10-15.53.33:302][173]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.33:303][173]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.33:304][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.33:343][173]LogAudio: Display: Waited 38.305901 ms for audio thread.
+[2020.09.10-15.53.33:365][173]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D165865080), frame # 33173
+[2020.09.10-15.53.33:365][173]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D10D638A00), frame # 33173
+[2020.09.10-15.53.33:367][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.10-15.53.33:771][173]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Arrow' for 'ShootingPoint' in BlueprintGeneratedClass 'DemoCharacter_C' (it may have been removed)
+[2020.09.10-15.53.33:772][173]LogAIModule: Creating AISystem for world DemoLevel
+[2020.09.10-15.53.33:772][173]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D11462F000), frame # 33173
+[2020.09.10-15.53.33:772][173]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D113E87D80), frame # 33173
+[2020.09.10-15.53.33:773][173]LogLoad: Game class is 'GM_Main_C'
+[2020.09.10-15.53.33:784][173]LogWorld: Bringing World /Game/Maps/DemoLevel.DemoLevel up for play (max tick rate 0) at 2020.09.10-16.53.33
+[2020.09.10-15.53.33:784][173]LogWorld: Bringing up level for play took: 0.010729
+[2020.09.10-15.53.33:787][173]LogLoad: Took 0.485369 seconds to LoadMap(/Game/Maps/DemoLevel)
+[2020.09.10-15.53.39:303][332]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.10-15.53.39:304][332]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.10-15.53.39:304][332]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.10-15.53.39:305][332]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.09.10-15.53.39:305][332]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kelvi/OneDrive/Desktop/Z-Up/Guns/Saved/Config/Windows/Scalability.ini]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.10-15.53.39:305][332]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.10-15.53.39:320][335]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1163).
+[2020.09.10-15.53.42:181][ 51]LogSlate: Window 'Guns (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.09.10-15.53.42:182][ 51]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.10-15.53.42:193][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.10-15.53.42:193][ 51]LogEngine: All Windows Closed
+[2020.09.10-15.53.42:193][ 51]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.09.10-15.53.42:193][ 51]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.09.10-15.53.42:194][ 52]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.10-15.53.42:195][ 52]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2020.09.10-15.53.42:245][ 52]LogInit: Display: PreExit Game.
+[2020.09.10-15.53.42:247][ 52]LogWorld: BeginTearingDown for /Game/Maps/DemoLevel
+[2020.09.10-15.53.42:247][ 52]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.10-15.53.42:248][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.10-15.53.42:474][ 52]LogExit: Preparing to exit.
+[2020.09.10-15.53.42:861][ 52]LogMoviePlayer: Shutting down movie player
+[2020.09.10-15.53.42:979][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.10-15.53.42:991][ 52]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.10-15.53.42:993][ 52]LogExit: Game engine shut down
+[2020.09.10-15.53.43:009][ 52]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001D179A57800), frame # 35052
+[2020.09.10-15.53.43:009][ 52]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D179A62700), frame # 35052
+[2020.09.10-15.53.43:009][ 52]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D179A5BC00), frame # 35052
+[2020.09.10-15.53.43:012][ 52]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D113E87D80), frame # 35052
+[2020.09.10-15.53.43:012][ 52]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D11462F000), frame # 35052
+[2020.09.10-15.53.43:047][ 52]LogExit: Object subsystem successfully closed.
+[2020.09.10-15.53.43:079][ 52]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.10-15.53.43:101][ 52]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (504)
+[2020.09.10-15.53.43:101][ 52]LogModuleManager: Shutting down and abandoning module SequenceRecorder (502)
+[2020.09.10-15.53.43:101][ 52]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AutomationWorker (498)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module Voice (496)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AIModule (494)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module GameplayDebugger (493)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AITestSuite (491)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module NavigationSystem (489)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module OculusMR (486)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (484)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (482)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module WebMMedia (480)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (478)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (476)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (474)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (472)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (470)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module PlanarCut (468)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (462)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module PortalServices (450)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module PortalRpc (448)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module MessagingRpc (446)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (444)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module AudioMixerCore (443)
+[2020.09.10-15.53.43:102][ 52]LogModuleManager: Shutting down and abandoning module ProfilerService (440)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module TaskGraph (438)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module Synthesis (436)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module OculusInput (432)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (430)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module GooglePAD (428)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module EditableMesh (426)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (424)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module CableComponent (422)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AudioCapture (420)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (419)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AssetTags (416)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (414)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (412)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AppleImageUtils (410)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module AndroidPermission (408)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (406)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (404)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module TemplateSequence (402)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (400)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (398)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (396)
+[2020.09.10-15.53.43:184][ 52]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (395)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (388)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (386)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (378)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module MeshConversion (376)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module DynamicMesh (374)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (372)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module GeometricObjects (370)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (368)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (367)
+[2020.09.10-15.53.43:191][ 52]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (363)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (359)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module ChaosNiagara (356)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module ChaosCloth (354)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module BackChannel (352)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module AutomationUtils (350)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (348)
+[2020.09.10-15.53.43:192][ 52]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (338)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (336)
+[2020.09.10-15.53.43:193][ 52]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (330)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module SoundFields (328)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module SignificanceManager (326)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (324)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module ActorSequence (316)
+[2020.09.10-15.53.43:194][ 52]LogModuleManager: Shutting down and abandoning module UdpMessaging (314)
+[2020.09.10-15.53.43:295][ 52]LogModuleManager: Shutting down and abandoning module TcpMessaging (312)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (310)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (306)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (304)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (302)
+[2020.09.10-15.53.43:850][ 52]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (300)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (298)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (296)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (294)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapController (292)
+[2020.09.10-15.53.43:850][ 52]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (290)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module MagicLeapAR (288)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module AugmentedReality (287)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (284)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module Niagara (282)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module SignalProcessing (281)
+[2020.09.10-15.53.43:850][ 52]LogModuleManager: Shutting down and abandoning module NiagaraEditor (279)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module NiagaraCore (276)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module TreeMap (269)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module AnimationSharing (266)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module Paper2D (262)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (260)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (258)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (256)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module PacketHandler (254)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (252)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (250)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module MediaAssets (248)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module Overlay (246)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module OverlayEditor (245)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module VREditor (242)
+[2020.09.10-15.53.43:851][ 52]LogModuleManager: Shutting down and abandoning module StringTableEditor (240)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (238)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (236)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module FunctionalTesting (234)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (232)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module UMG (230)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module UMGEditor (229)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module Sequencer (228)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module MessageLog (225)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module MaterialEditor (223)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module ContentBrowser (222)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2020.09.10-15.53.43:852][ 52]LogModuleManager: Shutting down and abandoning module CollectionManager (219)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (218)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module SlateReflector (210)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module Slate (208)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module SlateCore (206)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2020.09.10-15.53.43:853][ 52]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module Messaging (196)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MovieSceneTools (184)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MeshBuilder (180)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (175)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (173)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (171)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (160)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (158)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2020.09.10-15.53.43:854][ 52]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (121)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (119)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (117)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (115)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.09.10-15.53.43:855][ 52]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2020.09.10-15.53.43:855][ 52]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2020.09.10-15.53.43:857][ 52]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2020.09.10-15.53.43:857][ 52]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2020.09.10-15.53.43:873][ 52]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2020.09.10-15.53.43:905][ 52]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2020.09.10-15.53.43:907][ 52]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.09.10-15.53.43:909][ 52]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.09.10-15.53.43:910][ 52]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.10-15.53.43:911][ 52]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.10-15.53.43:912][ 52]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.10-15.53.43:912][ 52]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.09.10-15.53.43:913][ 52]LogD3D11RHI: Shutdown
+[2020.09.10-15.53.43:913][ 52]LogD3D11RHI: CleanupD3DDevice
+[2020.09.10-15.53.43:933][ 52]LogExit: Exiting.
+[2020.09.10-15.53.43:970][ 52]Log file closed, 09/10/20 16:53:43
